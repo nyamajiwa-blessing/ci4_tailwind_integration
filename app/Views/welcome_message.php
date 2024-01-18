@@ -6,6 +6,7 @@
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+    <link rel="stylesheet" href="/output.css">
 
     <!-- STYLES -->
 
@@ -232,7 +233,7 @@
 
 <section>
 
-    <h1>About this page</h1>
+    <h1 class="text-7xl bg-red-500">About this page</h1>
 
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
